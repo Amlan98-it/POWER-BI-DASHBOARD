@@ -23,4 +23,5 @@ The above image is a snapshot of the dashboard, illustrating the AQI data and in
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Amlansutradhar/aqi-dashboard.git
+   git clone
+   https://github.com/Amlansutradhar/POWER-BI-DASHBOARD

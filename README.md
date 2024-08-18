@@ -15,7 +15,7 @@ The dashboard also shines a spotlight on the cleanest city in India. This serves
 
 ## Dashboard Preview
 
-![AQI Dashboard Preview](path/to/your/preview/image.png)
+![AQI Dashboard Preview](https://github.com/Amlansutradhar/POWER-BI-DASHBOARD/blob/main/AIR%20QUALITY%20INDEX%20DASHBOARD%20USING%20POWER-BI_1.jpg)
 
 The above image is a snapshot of the dashboard, illustrating the AQI data and insights. For a detailed view, download or clone the repository and explore the interactive dashboard.
 
